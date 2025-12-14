@@ -1,35 +1,7 @@
-Table of Contents
 
 Overview
 
-System Architecture
-
-Key Features
-
-Technical Stack
-
-Data Engineering Pipeline
-
-Multi-LLM Architecture
-
-Healthcare Domains
-
-Installation & Setup
-
-Project Structure
-
-Usage
-
-Safety & Compliance
-
-Performance Metrics
-
-Future Enhancements
-
-Contributing
-
-License
-🏥 OverviewWellNest is a sophisticated healthcare AI system developed as an academic project to demonstrate the integration of enterprise-grade data engineering practices with Generative AI for preventive healthcare education. The system processes over 600,000 healthcare records across 6 datasets, creating 18 feature tables with 630+ engineered features to power intelligent, domain-specific health assessments.Project Goals
+WellNest is a sophisticated healthcare AI system developed as an academic project to demonstrate the integration of enterprise-grade data engineering practices with Generative AI for preventive healthcare education. The system processes over 600,000 healthcare records across 6 datasets, creating 18 feature tables with 630+ engineered features to power intelligent, domain-specific health assessments.Project Goals
 Demonstrate Fine-Tuning Expertise: Showcase advanced LLM fine-tuning techniques using Snowflake Cortex
 Enterprise Data Engineering: Implement production-grade data pipelines using medallion architecture (Bronze-Silver-Gold)
 Practical Healthcare Application: Create natural, conversational patient interactions while maintaining clinical accuracy
