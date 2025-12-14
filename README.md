@@ -61,6 +61,10 @@ Router: Claude Sonnet 4
 Specialists: Llama 3.1-8B (fine-tuned via Snowflake Cortex)
 Context Window Management: Smart conversation history handling
 
+<img width="557" height="750" alt="image" src="https://github.com/user-attachments/assets/ad4a3ad9-0dd3-4fda-b955-47ebb4154a0e" />
+
+
+
 Installation & Setup
 Prerequisites
 bash# Required accounts
